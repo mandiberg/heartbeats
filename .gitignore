@@ -4,6 +4,10 @@ bin-debug/
 bin-release/
 [Oo]bj/ # FlashDevelop obj
 [Bb]in/ # FlashDevelop bin
+HeartBeat Sounds/
+Notification Sounds/
+mail data copy.txt
+timestamp_heartrate.txt
 
 # Other files and folders
 .settings/
